@@ -1,0 +1,16 @@
+.flex{
+  display: flex;
+}
+
+.lists{
+  background-color: red;
+  color: white;
+  padding: 15px;
+
+}
+
+.offerItem{
+  color: red;
+  margin: 30px 50px;
+}
+ 
